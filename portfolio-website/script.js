@@ -167,13 +167,6 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // Live Demo Buttons alert/trigger
-    document.querySelectorAll(".demo-trigger").forEach(btn => {
-        btn.addEventListener("click", (e) => {
-            e.preventDefault();
-            showToast("Interactive demo feature preview loaded!");
-        });
-    });
 
     // --------------------------------------------------------------------------
     // 5. Contact Form Submission & Toast Notification
