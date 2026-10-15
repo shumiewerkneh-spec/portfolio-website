@@ -107,7 +107,7 @@ I'm continuously learning and building projects to strengthen my development ski
 ## 📫 Contact
 
 * **GitHub:** [shumiewerkneh-spec](https://github.com/shumiewerkneh-spec)
-* **Email:** [shumiewerkineh@gmail.com](mailto:shumiewerkineh@gmail.com)
+* **Email:** [shumiewerkineh@gmail.com](mailto:shumiewerkneh@gmail.com)
 
 ---
 
