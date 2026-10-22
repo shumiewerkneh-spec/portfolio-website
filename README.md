@@ -2,7 +2,7 @@
 
 A modern, responsive, and user-friendly **personal portfolio website** built to showcase my skills, projects, experience, and continuous growth as a Software Engineering student and Frontend Developer.
 
-## 🌐 Live Demo
+## 🌐 Live Demo [https://werkneh-portfolio.netlify.app/]
 
 🚀 **[View Portfolio Website](https://shumiewerkneh-spec.github.io/portfolio-website/)**
 
